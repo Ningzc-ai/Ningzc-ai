@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m NcLAB 👋
+# Hi, I’m Ningzc 👋
 
 ### 人工智能专业研究生 · 西安电子科技大学
 Graduate Student in Artificial Intelligence · Xidian University
